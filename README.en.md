@@ -62,6 +62,16 @@ npm install -g .\jm-agent-cli-0.1.0.tgz
 jm-agent config --json
 ```
 
+## AI Skill
+
+This repository includes an English skill for AI agents:
+
+```text
+skills/jmcomic-agent-cli/SKILL.md
+```
+
+The skill documents how to use `jm-agent`, including common commands, parameters, and safety notes. It does not provide any installation method. To use it, drag the whole `skills/jmcomic-agent-cli` folder into the appropriate skills directory for your agent software. Skill folder locations vary by agent application.
+
 ## Common Commands
 
 ```powershell

@@ -27,6 +27,7 @@
   "files": [
     "bin/",
     "scripts/",
+    "skills/",
     "src/",
     "test/",
     "tools/vendor/"

@@ -66,6 +66,16 @@ npm install -g .\jm-agent-cli-0.1.0.tgz
 jm-agent config --json
 ```
 
+## AI Skill
+
+仓库提供一个给 AI Agent 使用的英文 skill：
+
+```text
+skills/jmcomic-agent-cli/SKILL.md
+```
+
+这个 skill 只记录 `jm-agent` 的使用方式、常用命令、参数和注意事项，不提供任何安装方式。需要使用时，请把整个 `skills/jmcomic-agent-cli` 文件夹拖到对应 Agent 软件的 skills 目录中。不同 Agent 软件的 skills 目录位置不同，请按你自己的软件规则放置。
+
 ## 常用命令
 
 ```powershell
