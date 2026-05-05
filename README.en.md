@@ -70,7 +70,7 @@ This repository includes an English skill for AI agents:
 skills/jmcomic-agent-cli/SKILL.md
 ```
 
-The skill documents how to use `jm-agent`, including common commands, parameters, and safety notes. It does not provide any installation method. To use it, drag the whole `skills/jmcomic-agent-cli` folder into the appropriate skills directory for your agent software. Skill folder locations vary by agent application.
+The skill documents how to use `jm-agent`, including common commands, parameters, and safety notes. It does not provide any installation method, and it is not included in the npm package. To use it, drag the whole `skills/jmcomic-agent-cli` folder into the appropriate skills directory for your agent software. Skill folder locations vary by agent application.
 
 ## Common Commands
 
